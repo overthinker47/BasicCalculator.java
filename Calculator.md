@@ -11,14 +11,14 @@
 			    Scanner sc = new Scanner(System.in);
 			    
 			    System.out.println("Enter the number1 : ");
-                number1 = sc.nextDouble();
+                            number1 = sc.nextDouble();
 				
                 
-                System.out.println("Enter the operator (+,-,*,/,%,^) : ");
-				char operator = sc.next().charAt(0);
+                            System.out.println("Enter the operator (+,-,*,/,%,^) : ");
+			    char operator = sc.next().charAt(0);
                 
-				System.out.print("Enter the number2 : ");
-				number2 = sc.nextDouble();
+			    System.out.print("Enter the number2 : ");
+			    number2 = sc.nextDouble();
 				
 				
 				double result = 0;
